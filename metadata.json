@@ -1,0 +1,5 @@
+{
+  "name": "FlashSnap Photobooth",
+  "description": "A retro-style digital photobooth with filters, countdowns, and instant photo strips.",
+  "requestFramePermissions": ["camera"]
+}
